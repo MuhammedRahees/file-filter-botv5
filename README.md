@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/00bdb8145479df9436ae1.jpg" alt="Ajax Techz">
+  <img src="https://telegra.ph/file/36f86d6554b3f4182e748.jpg" alt="Mad Nocks">
 </p>
 <h1 align="center">
   <b>file-filter-bot</b>
@@ -10,7 +10,7 @@
 [![Stars](https://img.shields.io/github/stars/malik7983/file-filter-bot?style=flat-square&color=orange)](https://github.com/malik7983/file-filter-bot/stargazers)
 [![Forks](https://img.shields.io/github/forks/malik7983/file-filter-bot?style=flat-square&color=blue)](https://github.com/malik7983/file-filter-bot/fork)
 [![Size](https://img.shields.io/github/repo-size/malik7983/file-filter-bot?style=flat-square&color=black)](https://github.com/malik7983/file-filter-bot)   
-[![Open Source happy ](https://badges.frapsoft.com/os/v2/open-source.svg?v=110)](https://github.com/malik7983/file-filter-bot)   
+[![Open Source happy ](https://badges.frapsoft.com/os/v2/open-source.svg?v=110)](https://git.heroku.com/mdpower-bot.git)   
 ## Features
 
 - [x] Auto Filter
@@ -97,5 +97,5 @@ python3 bot.py
 • /broadcast - to broadcast a message to Ajax users
 ```
 
-𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 👉 [Sahid malik](https://t.me/sahid_malik)                                                                                                                                                                                 
-𝙲𝙷𝙰𝙽𝙽𝙴𝙻 👉 [movies house](https://t.me/m_house786)
+𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 👉 [Sahid malik](https://t.me/Madnocks)                                                                                                                                                                                 
+𝙲𝙷𝙰𝙽𝙽𝙴𝙻 👉 [movies house](https://t.me/filmDox_md)
