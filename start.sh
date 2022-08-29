@@ -1,7 +1,7 @@
 if [ -z $UPSTREAM_REPO ]
 then
   echo "Cloning main Repository"
-  git clone https://git.heroku.com/mdpower-bot.git /file-filter-bot
+  git clone https://git.heroku.com/mdpower5.git /file-filter-bot
 else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
   git clone $UPSTREAM_REPO /file-filter-bot
